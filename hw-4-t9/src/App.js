@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div>
-      {langs.map(item => <span>{ item + 3 }</span>)}
+      {langs.map(item => <span>{ item + 3 } </span>)}
     </div>
   );
 }
